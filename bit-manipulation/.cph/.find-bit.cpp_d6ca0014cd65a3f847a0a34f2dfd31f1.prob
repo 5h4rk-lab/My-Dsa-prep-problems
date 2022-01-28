@@ -1,0 +1,1 @@
+{"name":"Local: find-bit","url":"/home/shark/Documents/dsa/cpp/bit-manipulation/find-bit.cpp","tests":[{"id":1639909569251,"input":"5\n2","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shark/Documents/dsa/cpp/bit-manipulation/find-bit.cpp","group":"local","local":true}
